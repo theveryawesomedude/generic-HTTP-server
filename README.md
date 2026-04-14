@@ -30,7 +30,7 @@ the URL may vary..!
 Replace the contents of the `index.html` placeholder website in `bin/public`
 
 ### Any features?
-- Tracking things like User-Agent in a database that is created once the database is ran.
+- Tracking things like User-Agent in a database that is created once `backend.exe` is ran.
 - Blocking too many requests at once, the time window is 10, limit 20 requests per window, this is PER-IP.
 
 **ENJOY‼**
